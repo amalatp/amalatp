@@ -1,16 +1,22 @@
-## Hi, I am Amala 👋
+# 👋 Hi, I'm Amala 
+🚀 Fluttering through code to build pixel-perfect cross-platform experiences.
 
-<!--
-**amalatp/amalatp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- 💼 **SDE - Flutter** @ **chargeMOD**  
+- 💡 Crafting **seamless** mobile experiences   
+- 🚀 Constantly learning, evolving, and optimizing  
+- 🤝 Let’s **connect** and **collaborate**!
+  
+### 🛠️ Tech Stack  
+![Flutter](https://img.shields.io/badge/Flutter-%230256A0.svg?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C5.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amala-t-p-410750258/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:amalahameedtp@gmail.com)  
+
