@@ -6,13 +6,28 @@
 - 💡 Crafting **seamless** mobile experiences   
 - 🚀 Constantly learning, evolving, and optimizing  
 - 🤝 Let’s **connect** and **collaborate**!
+
   
 ### 🛠️ Tech Stack  
-![Flutter](https://img.shields.io/badge/Flutter-%230256A0.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-%230175C5.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center"> 
+  <a href="https://dart.dev/overview" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://docs.flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/docs" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  </a>
+</p>
+
+
 
  
 
