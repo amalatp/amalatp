@@ -2,7 +2,7 @@
 🚀 Fluttering through code to build pixel-perfect cross-platform experiences.
 
 ## 👨‍💻 About Me  
-- 💼 **SDE - Flutter** @ **chargeMOD**  
+- 💼 **Flutter Developer** @ **Applaunch**  
 - 💡 Crafting **seamless** mobile experiences   
 - 🚀 Constantly learning, evolving, and optimizing  
 - 🤝 Let’s **connect** and **collaborate**!
