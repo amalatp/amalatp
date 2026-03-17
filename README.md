@@ -2,7 +2,7 @@
 🚀 Fluttering through code to build pixel-perfect cross-platform experiences.
 
 ## 👨‍💻 About Me  
-- 💼 **Flutter Developer** @ **Applaunch**  
+- 💼 **Flutter Developer** @ **Benzy Infotech Pvt Ltd**  
 - 💡 Crafting **seamless** mobile experiences   
 - 🚀 Constantly learning, evolving, and optimizing  
 - 🤝 Let’s **connect** and **collaborate**!
